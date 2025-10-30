@@ -5,7 +5,9 @@
 
 ## Let's Connect:
 📧 Email : [Email me](mailto:dasswetasuman91@gmail.com)  
-🔗 LinkedIn: [Sweta Suman Das](https://www.linkedin.com/in/sweta-suman-das-0b013b272/)
+🔗 LinkedIn: [Sweta Suman Das](https://www.linkedin.com/in/sweta-suman-das-0b013b272/)  
+<img width="109" height="109" alt="image" src="https://github.com/user-attachments/assets/578476e1-2edf-494a-834b-6f2c66d8207e" /> Leetcode : [Leetcode](https://leetcode.com/u/22051991/)
+
 <!--
 **SwetaSD/SwetaSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
